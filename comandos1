@@ -27,7 +27,6 @@ mkdir renca
 cd renca
 touch lista.xls
 cd ..
-cd ..
 mkdir sexta-region
 cd sexta-region
 touch lista.xls
