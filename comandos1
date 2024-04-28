@@ -1,7 +1,6 @@
 #!/bin/bash -e
 
 # Agregar las instrucciones para crear la estructura de carpetas
-mkdir distribuidora
 cd distribuidora
 mkdir clientes
 cd clientes
